@@ -14,4 +14,9 @@ img {
 .letak {
     display: flex;
     justify-content: space-between;
+    gap: 300px;
+}
+
+.tulisan {
+    text-align: center;
 }
