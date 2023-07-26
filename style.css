@@ -1,6 +1,7 @@
 .border {
     border: 1px solid;
     padding: 2px;
+    background-color: hwb(0 0% 98% / 0.521);
 }
 
 .mangkok {
@@ -31,4 +32,8 @@ img {
 .tulisan {
     text-align: center;
     font-size: large;
+}
+
+.warna {
+    color: rgba(255, 255, 255, 0.523);
 }
