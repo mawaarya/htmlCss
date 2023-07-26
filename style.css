@@ -3,20 +3,32 @@
     padding: 2px;
 }
 
+.mangkok {
+    width: 1000px;
+    margin: auto;
+}
+
 img {
     width: 200px;
 }
 
 .card {
-    width: 200px;
+    width: 30ex;
 }
 
 .letak {
     display: flex;
-    justify-content: space-between;
-    gap: 300px;
+    justify-content: center;
+    gap: 100px;
+}
+
+.arah {
+    display: flex;
+    margin-left: 450px;
+    margin-top: -15px;
 }
 
 .tulisan {
     text-align: center;
+    font-size: large;
 }
