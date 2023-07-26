@@ -14,7 +14,9 @@ img {
 }
 
 .card {
-    width: 30ex;
+    width: 300%;
+    padding: block 30px;
+    box-sizing: border-box;
 }
 
 .letak {
