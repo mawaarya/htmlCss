@@ -53,3 +53,20 @@ li:hover {
     display: inline-block;
     font-size: 20px rgb(0, 0, 0);
 }
+
+@media only screen and (max-width:400px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    .tempat {
+        width: 80%;
+    }
+    .lebar {
+        width: 100%;
+    }
+    .respon {
+        display: flex;
+        flex-direction: column;
+    }
+}
