@@ -49,6 +49,10 @@ li:hover {
     transition: .5s;
 }
 
+.card:target {
+    background-color: chartreuse;
+}
+
 .display {
     display: inline-block;
     font-size: 20px rgb(0, 0, 0);
